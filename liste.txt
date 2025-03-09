@@ -4,3 +4,6 @@
 2.Story paylaşma
 3.Fotoğraf paylaşma
 4.Gönderilere yorum yapabilme
+
+
+

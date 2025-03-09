@@ -1,0 +1,6 @@
+//Uygulama:Instagram
+ÖZELLİKLER
+1.Story paylaşma
+2.Gönderi paylaşma
+3.Canlı yayın açma
+4.Fotoğraf paylaşma

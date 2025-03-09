@@ -4,3 +4,4 @@
 2.Gönderi paylaşma
 3.Canlı yayın açma
 4.Fotoğraf paylaşma
+5.Gönderilere yorum yapabilme

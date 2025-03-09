@@ -1,7 +1,7 @@
 //Uygulama:Instagram
 ÖZELLİKLER
-1.Story paylaşma
-2.Gönderi paylaşma
 3.Canlı yayın açma
+2.Gönderi paylaşma
+1.Story paylaşma
 4.Fotoğraf paylaşma
 5.Gönderilere yorum yapabilme
